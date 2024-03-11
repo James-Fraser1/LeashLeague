@@ -105,7 +105,7 @@ As devoted dog owners and lovers we wanted to make it simple for you to find you
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+This is an example of how you can set up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -121,7 +121,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rockwoodc/LeashLeague.git
+   git clone https://github.com/James-Fraser1/LeashLeague.git
    ```
 3. Install NPM packages
    ```sh
@@ -135,13 +135,6 @@ You can also deploy this app to Heroku:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,6 +166,6 @@ Christian Rockwood - rockwoodce@gmail.com
 
 
 
-Project Link: [https://github.com/github_rockwoodc/LeashLeague](https://github.com/github_rockwoodc/LeashLeague)
+Project Link: [https://github.com/James-Fraser1/LeashLeague](https://github.com/James-Fraser1/LeashLeague)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
